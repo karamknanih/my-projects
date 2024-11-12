@@ -1,0 +1,1 @@
+java --module-path "./JavaFX Files/lib" --add-modules javafx.controls,javafx.fxml,javafx.media -jar FinalKnightsMoveJAR.jar
